@@ -39,6 +39,8 @@ class Home extends React.Component {
                     poster={movie.medium_cover_image} 
                     year={movie.year}
                     genres={movie.genres}
+                    runtime={movie.runtime}
+                    language={movie.language}
                   />
                 ))
               }
