@@ -1,0 +1,11 @@
+div#root {
+  display: flex;
+  background-color: #fffcf2;
+  height: 100vh;
+}
+
+.loading {
+  position: absolute;
+  left: 48%;
+  top: 45%;
+}
